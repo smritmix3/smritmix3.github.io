@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package version="0.0.10" uuid="esi_choregraphe-fbf1ee">
+ <names>
+  <name lang="en_US">ESI_choregraphe</name>
+ </names>
+ <supportedLanguages>
+  <language>en_US</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>en_US</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="behavior_1">
+   <nature>interactive</nature>
+   <triggerSentences>
+    <sentence lang="en_US">Introduce easystepin</sentence>
+    <sentence lang="en_US">easy</sentence>
+    <sentence lang="en_US">easystepin</sentence>
+    <sentence lang="en_US">introduce easystepin</sentence>
+    <sentence lang="en_US">introduce esi</sentence>
+    <sentence lang="en_US">greet esi</sentence>
+    <sentence lang="en_US">greet</sentence>
+   </triggerSentences>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+ <requirements>
+  <naoqiRequirement maxVersion="2.1.4.13" minVersion="2.1.4.13"/>
+ </requirements>
+</package>
